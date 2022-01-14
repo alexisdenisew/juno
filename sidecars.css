@@ -1,0 +1,49 @@
+/* about page? or generals idk */
+
+#mainStage h1 {
+  text-align: center;
+  color: #ff36ab;
+  font-family: 'Jost', sans-serif;
+}
+#mainIMG{
+  text-align: center;
+}
+
+#mainStage{
+  text-align: center;
+}
+
+#mainStage p{
+  font-family: 'Inter', sans-serif;
+}
+
+@media screen and (min-width: 601px) {
+  #mainStage p{
+    margin: 5%;
+    font-size: 150%;
+  }
+  #mainStage h1 {
+    margin-top: 10%;
+    font-size: 400%;
+  }
+  #centerStageIMG{
+    width: 35%;
+    height: auto;
+  }
+
+}
+
+@media screen and (max-width: 600px) {
+  #mainStage p{
+    margin: 5%;
+    font-size: 100%;
+  }
+  #mainStage h1 {
+      margin-top: 0.5%;
+      font-size: 300%;
+    }
+  #centerStageIMG{
+    width: 60%;
+    height: auto;
+  }
+}

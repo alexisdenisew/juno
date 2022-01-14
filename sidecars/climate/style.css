@@ -1,0 +1,56 @@
+#mainstage{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.menu {
+  margin-left: 5%;
+  
+  float: left;
+  padding: 15px;
+  border: 1px solid red;
+}
+
+.main {
+  
+  float: left;
+  padding: 15px;
+  border: 1px solid red;
+  background-color: red;
+}
+
+.last {
+  margin-right: 5%;
+  
+  float: left;
+  padding: 15px;
+  border: 1px solid red;
+}
+
+/* position number 1 */
+
+#set1{
+  width: 10%;
+}
+
+#set2{
+  width: 57%;
+}
+
+#set3{
+width: 22%;
+}
+
+/* position number 2 */
+
+#set4{
+  width: 10%;
+}
+
+#set5{
+  width: 18%;
+}
+
+#set6{
+width: 61%;
+}
